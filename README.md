@@ -97,3 +97,7 @@ Please check the [Vagrant documentation](http://vagrantup.com/v1/docs/index.html
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/akitaonrails/brotodevbox/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/juliobetta/juliobetta_devbox/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
