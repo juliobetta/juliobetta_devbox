@@ -44,7 +44,6 @@ Port 3000 in the host computer is forwarded to port 3000 in the virtual machine.
 - Redis
 - MongoDB
 - NodeJS
-- Oracle Java 7
 - System dependencies for nokogiri, ruby, rmagick, sqlite3, mysql, mysql2, and pg
 - Memcached
 - [dotfiles](https://github.com/akitaonrails/dotfiles)
